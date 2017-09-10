@@ -50,7 +50,7 @@
   - 利用 JavaScripts 擷取 ScrollTop (使用者的頁面 Y 軸位置)來設計動畫啟動時機
   - 設計右下角回到最頂端按鈕
 
-- 響應式餐廳網站
+- 響應式餐廳網站<a href="https://enginelin.github.io/RWDPracticing01/" target="_blank">首頁</a>、<a href="https://enginelin.github.io/RWDPracticing02/" target="_blank">購物車頁</a>
 
   - 利用 CSS 手刻響應式網頁
   - 自動適應手機、平板與桌機下，不同規格的螢幕大小
