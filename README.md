@@ -44,7 +44,7 @@
 
 ## Works
 
-- <a href="http://linengine.comeze.com/index.html/index.html" target="_blank">個人網站</a>
+- <a href="https://enginelin.github.io/personalWebsite/" target="_blank">個人網站</a>
 
   - jQuery 製作動畫效果
   - 利用 JavaScripts 擷取 ScrollTop (使用者的頁面 Y 軸位置)來設計動畫啟動時機
