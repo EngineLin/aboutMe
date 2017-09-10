@@ -48,7 +48,7 @@
 
   - jQuery 製作動畫效果
   - 利用 JavaScripts 擷取 ScrollTop (使用者的頁面 Y 軸位置)來設計動畫啟動時機
-  - header視差設計、Navbar按鈕滑動定位效果
+  - header視差設計、Navbar按鈕滑動定位效果
 
 - 響應式餐廳網站<a href="https://enginelin.github.io/RWDPracticing01/" target="_blank">首頁</a>、<a href="https://enginelin.github.io/RWDPracticing02/" target="_blank">購物車頁</a>
 
