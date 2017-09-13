@@ -3,7 +3,7 @@
 * English Name: Engine Lin
 * Location : 新北市板橋區
 * Education : 國立中興大學 - 環境暨工程學系
-* personal website : http://linengine.comeze.com/index.html/index.html
+* personal website : https://enginelin.github.io/personalWebsite/
 * E-mail : linengine@gmail.com
 * Mobile : +886 928513196
 
