@@ -70,9 +70,9 @@
   - 按鈕式、下拉式選單、頁面按鈕的 JavaScripts 邏輯架構
   
 - <a href="https://enginelin.github.io/bootstrapPracticing01/" target="_blank">台北市最新災害災情資料網</a>
-
-  - 以BootStrap 快速建立具有RWD的網頁，趕在颱風來之前完成。
-  - AJAX 介接 台北市消防局 JSON ，即時更新資訊
+  
+  - 以BootStrap 快速建立具有RWD的網頁，趕在颱風來之前完成。
+  - AJAX 介接 台北市消防局 JSON ，即時更新資訊
 
 ## Introduction
 
