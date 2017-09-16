@@ -22,7 +22,7 @@
 * 瞭解 Animate、Transform 跟 Transition 製作CSS動畫效果
 * Sass 快速建立與管理 CSS
 
-### JavsScript/jQuery/Vue.js
+### JavaScript/jQuery/Vue.js
 
 * 瞭解 JavaScript 語言基礎，可以擷取使用者行動，進一步做出效果
 * 會使用 jQuery 框架做動畫效果
