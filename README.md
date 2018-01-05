@@ -5,26 +5,28 @@
 * Education : 國立中興大學 - 環境暨工程學系
 * personal website : https://enginelin.github.io/personalWebsite/
 * E-mail : linengine@gmail.com
-* Mobile : +886 928513196
 
 ## Career
 
-### 富邦產物保險 - 比例薪業務專員(insurance seller) (2014/10 - 2016/05)
+### 喜鴻旅遊有限公司 - 網頁前端工程師(Front-end Developer) (2017/10 - now)
 
-* 除了前線之外，對內向公司不同部門(核保與理賠)、對外向企業窗口進行溝通。不同部門相互合作以達到公司目標。
-* 擅長解釋概念與達到優良溝通
+* 參與公司新版網頁開發專案，負責網頁功能與資料渲染的 JS 部分
+* 長期與後端合作，熟悉 API 操作與前後端的溝通
+* 為公司導入 Github 與數項新技術
 
 ## Skills
 
-### HTML/CSS/RWD/Sass
+## 基本:
 
-* HTML 建立網頁架構、CSS 修飾網頁、手刻 RWD 響應式設計
-* 瞭解 Animate、Transform 跟 Transition 製作CSS動畫效果
-* Sass 快速建立與管理 CSS
+### HTML/CSS/RWD/JavaScript/jQuery/AJAX
+
+* HTML 建立網頁架構、CSS 修飾網頁、RWD 響應式設計
+* 熟悉 JavaScript，能夠運用程式邏輯編寫各種效果
+* 熟悉 jQuery 對 DOM 進行操作
 
 ### JavaScript/jQuery/Vue.js
 
-* 瞭解 JavaScript 語言基礎，可以擷取使用者行動，進一步做出效果
+
 * 會使用 jQuery 框架做動畫效果
 * 瞭解 JSON、第三方 API 串聯網頁的方式
 * 使用 AJAX 與資料庫進行基礎串聯
@@ -37,10 +39,6 @@
 ### Gulp
 
 * 利用 Gulp 自動化處理前端重複項目 - <a href="https://github.com/EngineLin/Gulp-develop-env-source" target="_blank">GitHub上的資源整合包</a>
-
-### Python
-
-* 學習網頁程式之前用過 Python 撰寫爬蟲與字串自動處理功能(簡化工作程序)
 
 ## Works
 
