@@ -10,7 +10,7 @@
 ### 喜鴻旅遊有限公司 - 網頁前端工程師(Front-end Developer) (2017/10 - now)
 
 * 參與公司新版網頁開發專案，負責網頁功能與資料渲染的 JS 部分
-* 長期與後端合作，RESTful API 串接與前後、端溝通
+* 前、後端合作，RESTful API 串接與前後、端溝通
 
 ## Skills
 
@@ -33,15 +33,16 @@
 * 能使用 Git 在 GitHub 上進行版本控制
 * Github Page
 
-### Gulp
+### Webpack
 
-* 利用 Gulp 自動化處理前端重複項目 - <a href="https://github.com/EngineLin/Gulp-develop-env-source" target="_blank">我放在 GitHub 上的個人整合包</a>
+* 利用 Webpack 與生態圈的插件架設開發環境
+* 配合 vue-cli 製作 SPA
 
 ### Other:
 
-* Webpack： 配合 vue-cli 製作 SPA
+* Gulp： <a href="https://github.com/EngineLin/Gulp-develop-env-source" target="_blank">我放在 GitHub 上的個人整合包</a>
 * Node.js： 寫爬蟲、後台 API 與使用過較有名的 package
-* Google extension：寫過頁面標題過濾器
+* Google extension： 寫過頁面標題過濾器
 * Linebot: 配合 Node.js、Heroku 寫 PTT 爬文機器人 (可以在 line 軟體中搜尋 "PTT追文貓" -> 點選 "聊天" -> 輸入 "幫"，以開始使用)
 * Translated Github tech article: <a href="https://github.com/EngineLin/Front-End-Checklist" target="_blank">我翻譯的 font-end checklist</a>
 * Firebase: 利用 Firebase + Vue.js 技術幫公司寫 "尾牙的抽獎機器人" (控制台與渲染頁面分離)
