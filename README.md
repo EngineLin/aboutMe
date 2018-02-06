@@ -48,13 +48,12 @@
 
 ## Works
 
-- <a href="https://enginelin.github.io/personalWebsite/" target="_blank">個人網站</a>
+- React.js 作品：<a href="https://enginelin.github.io/personalWebsite/" target="_blank">個人網站</a>
 
-  - jQuery 製作動畫效果
-  - 利用 JavaScripts 擷取 ScrollTop (使用者的頁面 Y 軸位置)來設計動畫啟動時機
-  - header視差設計、Navbar按鈕滑動定位效果
+  - React.js 關注點分離
+  - 視差設計效果
 
-- Vue.js 作品 <a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a>
+- Vue.js 作品：<a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a>
 
   - Vue-cli 架設 webpack 工作環境
   - 融合 Vuestrap、vue-draggable 等 vue 的生態套件
