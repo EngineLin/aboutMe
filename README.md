@@ -9,15 +9,16 @@
 
 ### 旅遊業 - 網頁前端工程師(Front-end Developer) (2017/10 - now)
 
-* 參與公司新版網頁開發專案，負責網頁功能與資料渲染的 JS 部分
-* 前、後端合作，RESTful API 串接與前後、端溝通
+* 參與公司新版網頁開發專案
+* 獨立撰寫頁面功能: 類 Airbnb 的日曆、前後景時差的藝廊效果...等等
+* 前、後端合作，RESTful API 串接
 
 ## Skills
 
 ### HTML/CSS/RWD/Bootstrap/JavaScript(ES6)/jQuery/AJAX
 
-* HTML 建立網頁架構、CSS 修飾網頁、RWD 響應式設計(會 Bootstrap)
-* 主要撰寫 JavaScript，能夠運用程式邏輯編寫各種效果，熟悉 ES6 語法
+* HTML 建立網頁架構、CSS 修飾網頁、會徒手刻 RWD (也懂 Bootstrap)
+* 撰寫 JavaScript，熟悉 ES6 語法
 * 熟悉 jQuery 語法
 * AJAX 資料 POST、GET 用法
 
@@ -36,7 +37,6 @@
 ### Webpack
 
 * 利用 Webpack 與生態圈的插件架設開發環境
-* 配合 vue-cli 製作 SPA
 
 ### Other:
 
