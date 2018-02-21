@@ -7,7 +7,7 @@
 
 ## Career
 
-### 喜鴻旅遊有限公司 - 網頁前端工程師(Front-end Developer) (2017/10 - now)
+### 旅遊業 - 網頁前端工程師(Front-end Developer) (2017/10 - now)
 
 * 參與公司新版網頁開發專案，負責網頁功能與資料渲染的 JS 部分
 * 前、後端合作，RESTful API 串接與前後、端溝通
