@@ -44,8 +44,7 @@
 * Gulp： <a href="https://github.com/EngineLin/Gulp-develop-env-source" target="_blank">我放在 GitHub 上的個人整合包</a>
 * Node.js： 寫爬蟲、後台 API 與使用過較有名的 package
 * Google extension： 寫過頁面標題過濾器
-* Linebot: 配合 Node.js、Heroku 寫 PTT 爬文機器人
-　　(您可以在 line 軟體中搜尋 "PTT追文貓" -> 點選 "聊天" -> 輸入 "幫"，以開始使用)
+* Linebot: 配合 Node.js、Heroku 寫 PTT 爬文機器人 (您可以在 line 軟體中搜尋 "PTT追文貓" -> 點選 "聊天" -> 輸入 "幫"，以開始使用)
 * Translated Github tech article: <a href="https://github.com/EngineLin/Front-End-Checklist" target="_blank">我翻譯的 font-end checklist</a>
 * Firebase: 利用 Firebase + Vue.js 技術幫公司寫 "尾牙的抽獎機器人" (控制台與渲染頁面分離)
 
