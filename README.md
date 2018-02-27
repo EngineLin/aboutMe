@@ -41,11 +41,11 @@
 ### Other:
 
 * Gulp： <a href="https://github.com/EngineLin/Gulp-develop-env-source" target="_blank">我放在 GitHub 上的個人整合包</a>
-* Node.js： 寫爬蟲、後台 API 與使用過較有名的 package
-* Google extension： 寫過頁面標題過濾器
-* Linebot: 配合 Node.js、Heroku 寫 PTT 爬文機器人 (可以在 line 軟體中搜尋 "PTT追文貓" -> 點選 "聊天" -> 輸入 "幫"，以開始使用)
+* Node.js： 寫爬蟲(<a href="https://github.com/EngineLin/comicChatch" target="_black">爬漫畫網站的漫畫</a>)、後台 API 與使用過較有名的 package
+* Google extension： <a href="https://github.com/EngineLin/googleExtensionFilter" target="_blank"> IThelp 文章過濾器</a>
+* Linebot: 配合 Node.js、Heroku 寫 PTT 爬文機器人(您可以在 line 軟體中搜尋 "PTT追文貓" -> 點選 "聊天" -> 輸入 "幫"，開始使用)
 * Translated Github tech article: <a href="https://github.com/EngineLin/Front-End-Checklist" target="_blank">我翻譯的 font-end checklist</a>
-* Firebase: 利用 Firebase + Vue.js 技術幫公司寫 "尾牙的抽獎機器人" (控制台與渲染頁面分離)
+* Firebase: 利用 Firebase + Vue.js 技術幫公司寫 "尾牙的抽獎機器人" (控制台與抽獎動畫頁面分離)
 
 ## Works
 
@@ -53,6 +53,7 @@
 
   - React.js 關注點分離
   - 視差設計效果
+  - Jest Unit Testing
 
 - Vue.js 作品：<a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a>
 
@@ -63,14 +64,14 @@
 
 - <a href="http://linengine.comeze.com/myTravelPicsWall/index.html" target="_blank">搭便車環島牆</a>
 
-  - Masonry (瀑布流)插件製作自動向上對推擠的版型
-  - light Box 插件製作照片點擊後的燈箱效果
-  - Nivo Slider 插件製作自動轉換的照片面板
+  - Masonry 插件製作瀑布流版型
+  - light Box 插件製作燈箱效果
+  - Nivo Slider 插件製作輪播特效
   
 - <a href="https://enginelin.github.io/bootstrapPracticing01/" target="_blank">台北市最新災害災情資料網</a>
   
-  - 以BootStrap 快速建立具有RWD的網頁。
-  - AJAX 介接 台北市消防局 JSON ，即時更新資訊
+  - BootStrap 快速建立具有 RWD 的網頁
+  - AJAX 介接 台北市消防局 JSON ，即時更新資訊 (颱風警報發布後才會有資料)
 
 ## Introduction
 
