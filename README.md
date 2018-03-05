@@ -45,7 +45,10 @@
 * Node.js： 寫爬蟲(<a href="https://github.com/EngineLin/comicChatch" target="_black">爬漫畫網站的漫畫</a>)、後台 API 與使用過較有名的 package
 * Google extension： <a href="https://github.com/EngineLin/googleExtensionFilter" target="_blank"> IThelp 文章過濾器</a>
 * Linebot: 配合 Node.js、Heroku 寫 PTT 爬文機器人(您可以在 line 軟體中搜尋 "PTT追文貓" -> 點選 "聊天" -> 輸入 "幫"，開始使用)
-* Translated Github tech article: <a href="https://github.com/EngineLin/Front-End-Checklist" target="_blank">我翻譯的 font-end checklist</a>
+* Translated Github tech article:
+  * <a href="https://github.com/EngineLin/Front-End-Checklist" target="_blank">我翻譯的 font-end checklist</a>
+  * <a href="https://github.com/EngineLin/modern-js-cheatsheet" target="_blank">我翻譯的 modern-js-cheatsheet</a>
+  
 * Firebase: 利用 Firebase + Vue.js 技術幫公司寫 "尾牙的抽獎機器人" (控制台與抽獎動畫頁面分離)
 
 ## Works
