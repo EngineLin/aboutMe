@@ -2,7 +2,7 @@
 
 * English Name: Engine Lin
 * Location : 新北市板橋區
-* personal website : https://enginelin.github.io/personalWebsite/
+* Personal Website : https://enginelin.github.io/personalWebsite/
 * E-mail : linengine@gmail.com
 
 ## Career
@@ -11,8 +11,8 @@
 
 * 參與公司新版網頁開發專案
 * 獨立撰寫頁面功能: 類 Airbnb 的日曆、前後景時差的藝廊效果...等等
-* 建立公司 Google(包含 Map、Youtube)、Facebook、Instagram 第三方 API 串接與應用
-* 前、後端合作，RESTful API 串接
+* 建立公司 Google (包含 Map、Youtube)、Facebook、Instagram 第三方 API 串接與應用
+* 前、後端溝通，API 串接
 
 ## Skills
 
@@ -20,10 +20,10 @@
 
 * HTML 建立網頁架構、CSS 修飾網頁、會徒手刻 RWD (也懂 Bootstrap)
 * 撰寫 JavaScript，熟悉 ES6 語法
-* 熟悉 jQuery 語法
-* AJAX 資料 POST、GET 用法
+* 懂 jQuery 語法 (還是寫 Vanilla JS 為主)
+* AJAX 串接與使用
 
-### Frontend Framework: Vue.js
+### Front-end Framework: Vue.js
 
 * Side Project: <a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a>
 * 使用 Vue.js 框架建構輕量型快速響應的介面
@@ -33,7 +33,7 @@
 ### Git/GitHub
 
 * 能使用 Git 在 GitHub 上進行版本控制
-* Github Page
+* GitHub Page
 
 ### Webpack
 
@@ -57,12 +57,11 @@
 
   - React.js 關注點分離
   - 視差設計效果
-  - Jest Unit Testing
 
 - Vue.js 作品：<a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a>
 
   - Vue-cli 架設 webpack 工作環境
-  - 融合 Vuestrap、vue-draggable 等 vue 的生態套件
+  - 融合 Vuestrap、vue-draggable 等 Vue 的生態套件
   - SPA 架構
   - 使用 Vue-router、Vuex 等技術
 
@@ -75,9 +74,10 @@
 - <a href="https://enginelin.github.io/bootstrapPracticing01/" target="_blank">台北市最新災害災情資料網</a>
   
   - BootStrap 快速建立具有 RWD 的網頁
-  - AJAX 介接 台北市消防局 JSON ，即時更新資訊 (颱風警報發布後才會有資料)
+  - AJAX 介接 台北市消防局 JSON ，即時更新資訊 (官方有資料時該網站才會有效果)
 
 ## Introduction
 
 * 2016 年 6 月出發環遊世界半年，勇於挑戰、心態開放。
 * 好學、幽默、一點點自戀。
+* 或者想更深入了解我，可以看<a href="https://goo.gl/VWvM3v" target="_blank">這篇文章</a>
