@@ -30,6 +30,15 @@
 * SPA 網頁編程
 * Vue.js 相關技術： Vuex、vue-router、Vuestrap
 
+### Back-end API: Node.js + Koa + MongoDb
+
+* Side Project: <a href="https://ptt-soft-job-sniper.herokuapp.com/" target="_blank">Ptt Soft_job Sniper</a>
+* Source Code: https://github.com/EngineLin/ptt-soft-job-sniper
+* 使用 Node.js + Koa 建構後端 API + 網頁爬蟲
+* 使用 Node.js + Mongoose 建構 NoSQL 資料庫
+* 了解並建構 json web token 註冊驗證機制
+* 模組化 + Webpack 環境架構化開發 (請看 Source Code 架構)
+
 ### Git/GitHub
 
 * 能使用 Git 在 GitHub 上進行版本控制
