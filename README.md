@@ -14,21 +14,26 @@
 * 建立公司 Google (包含 Map、Youtube)、Facebook、Instagram 第三方 API 串接與應用
 * 前、後端溝通，API 串接
 
+### 使用者經驗設計新創 - 網頁前端工程師 (2018/04 - now)
+
+* 網站前端主要開發者
+* React Next.js 為主要開發框架
+
 ## Skills
 
-### HTML/CSS/RWD/Bootstrap/JavaScript(ES6)/jQuery/AJAX
+### Basic Skill
 
-* HTML 建立網頁架構、CSS 修飾網頁、會徒手刻 RWD (也懂 Bootstrap)
-* 撰寫 JavaScript，熟悉 ES6 語法
-* 懂 jQuery 語法 (還是寫 Vanilla JS 為主)
-* AJAX 串接與使用
+* HTML/CSS/JS
+* Bootstrap/RWD
+* 熟悉 ES6 語法
+* AJAX
 
 ### Front-end Framework: Vue.js
 
 * Side Project: <a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a>
-* 使用 Vue.js 框架建構輕量型快速響應的介面
+* 使用 Vue.js 框架建構
 * SPA 網頁編程
-* Vue.js 相關技術： Vuex、vue-router、Vuestrap
+* 相關技術： Vuex、vue-router、Vuestrap
 
 ### Back-end API: Node.js + Koa + MongoDb
 
