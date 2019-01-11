@@ -87,8 +87,9 @@
 
 ## Side Projects
 
-- <a href="https://ptt-soft-job-sniper.herokuapp.com/">Ptt Soft_job Sniper</a> :
+- Ptt Soft_job Sniper :
 
+  - 因為儲存信箱造成的資安問題，已經關閉服務，這邊附上 <a href="https://github.com/EngineLin/ptt-soft-job-sniper">Source code</a>
   - 使用 Koa2 建構後端 API server
   - 使用 Node.js 進行網頁爬蟲，爬取 PTT soft_job 版上標註「職缺」相關關鍵字的文章
   - 使用 MongoDB 儲存註冊者信箱與已爬取的文章標題&ID
