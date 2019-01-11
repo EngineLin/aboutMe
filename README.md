@@ -76,7 +76,7 @@
   - 使用 MongoDB 儲存註冊者信箱與已爬取的文章標題&ID
   - 實作 json web token 註冊驗證信機制 (nodemailer)
 
-- <a href="https://github.com/EngineLin/googleExtensionFilter" target="_blank"> ItHelp 文章過濾器</a> :
+- <a href="https://github.com/EngineLin/googleExtensionFilter" target="_blank"> ItHelp Article Filter</a> :
 
   - 介紹: 針對 ItHelp 的文章進行關鍵字過濾，當輸入想要塞選的關鍵字後，會協助使用者在瀏覽始將文章列表進行過濾
   - 實作 Google extension
@@ -92,7 +92,7 @@
   - 撰寫作業範例程式碼
   - 撰寫教學內文草稿解釋邏輯
 
-- <a href="https://enginelin.github.io/personalWebsite/" target="_blank">個人網站</a> :
+- <a href="https://enginelin.github.io/personalWebsite/" target="_blank">Personal Website</a> :
 
   - 介紹: 一頁式個人網站
   - 使用 React.js 打造
