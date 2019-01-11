@@ -9,7 +9,7 @@
 ### 就肆電競 - 網頁工程師 (2018/10 - 2019/01)
 
 * 開發改版後的新聞網站前台與編輯後台
-* 後期轉到 Service 組，開發 API
+* 後期轉到 Service 組，開發 API (公司後端開發是 100% 覆蓋率的 TDD)
 * 前端使用 Vue.js (TypeScript)，後端使用 SpringBoot (Kotlin)
 
 ### 深擊設計 - 網頁前端工程師 (2018/04 - 2018/10)
@@ -17,69 +17,86 @@
 * 開發公司承接的美術館網站前端
 * 使用 Next.js (React.js)
 
-### 喜鴻旅行社 - 網頁前端工程師(Front-end Developer) (2017/10 - 2018/04)
+### 喜鴻旅行社 - 網頁前端工程師 (2017/10 - 2018/04)
 
 * 開發公司新版旅遊網頁前端
 * 負責邏輯與效果比較負責的部分:
 * 包含: 類 Airbnb 的日曆、前後景時差的藝廊效果、公司 Youtube、Instgram、Facebook 頻道的資料爬蟲
+* 開發新專案: 公司內部使用的尾牙抽獎網頁服務
 
 ## Skills
 
 ### Basic Skill
 
 * HTML/CSS/JS
-* Bootstrap/RWD
+* RWD
 * ES6
 
 ### Front-end Framework
 
-* Vue.js
-* React.js
+* Vue.js/Vuex
+* React.js/Redux
 * Mocha/Chai/Sinon
 
 ### Back-end API Server
 
 * Koa2
 * Kotlin
+* Nodemailer
 
 ### Other:
 
 * Git
 * Webpack
-* 
-
-### Back-end API: Node.js + Koa + MongoDb
-
-* Side Project: <a href="https://ptt-soft-job-sniper.herokuapp.com/" target="_blank">Ptt Soft_job Sniper</a>
-* Source Code: https://github.com/EngineLin/ptt-soft-job-sniper
-* 使用 Node.js + Koa 建構後端 API + 網頁爬蟲
-* 使用 Node.js + Mongoose 建構 NoSQL 資料庫
-* 了解並建構 json web token 註冊驗證機制
-* 模組化 + Webpack 環境架構化開發 (請看 Source Code 架構)
-
-* Node.js： 寫爬蟲(<a href="https://github.com/EngineLin/comicChatch" target="_black">爬漫畫網站的漫畫</a>)、後台 API 與使用過較有名的 package
-* Google extension： <a href="https://github.com/EngineLin/googleExtensionFilter" target="_blank"> IThelp 文章過濾器</a>
-* Linebot: 配合 Node.js、Heroku 寫 PTT 爬文機器人(您可以在 line 軟體中搜尋 "PTT追文貓" -> 點選 "聊天" -> 輸入 "幫"，開始使用)
-* Translated Github tech article:
-  * <a href="https://github.com/EngineLin/Front-End-Checklist" target="_blank">我翻譯的 font-end checklist</a>
-  * <a href="https://github.com/EngineLin/modern-js-cheatsheet" target="_blank">我翻譯的 modern-js-cheatsheet</a>
-  
-* Firebase: 利用 Firebase + Vue.js 技術幫公司寫 "尾牙的抽獎機器人" (控制台與抽獎動畫頁面分離)
+* Firebase
+* BootStrap/ElementUI
+* Functional Programming
 
 ## Works
 
-- React.js 作品：<a href="https://enginelin.github.io/personalWebsite/" target="_blank">個人網站</a>
+- <a href="https://ptt-soft-job-sniper.herokuapp.com/">Ptt Soft_job Sniper</a> :
 
-  - React.js
+  - 使用 Koa2 建構後端 API server
+  - 使用 Node.js 進行網頁爬蟲，爬取 PTT soft_job 版上標註「職缺」相關關鍵字的文章
+  - 使用 MongoDB 儲存註冊者信箱與已爬取的文章標題&ID
+  - 實作 json web token 註冊驗證信機制 (nodemailer)
+
+- <a href="https://github.com/EngineLin/googleExtensionFilter" target="_blank"> ItHelp 文章過濾器</a> :
+
+  - 介紹: 針對 ItHelp 的文章進行關鍵字過濾，當輸入想要塞選的關鍵字後，會協助使用者在瀏覽始將文章列表進行過濾
+  - 實作 Google extension
+  
+- PTT 追文貓 :
+
+  - 介紹: 開啟聊天功能後，可以輸入 PTT 版名，機器人會回覆該版目前最新的前十篇文章
+  - 使用方式: 在 Line 軟體中搜尋 "PTT追文貓" -> 點選 "聊天" -> 輸入 "幫"，開始使用
+  - 實作 Linebot 規範，Node.js 爬蟲，Heroku 部屬
+
+- ALPHACamp 大航道計畫教材撰寫 (章節: 現代框架) :
+
+  - 撰寫作業範例程式碼
+  - 撰寫教學內文草稿解釋邏輯
+
+- <a href="https://enginelin.github.io/personalWebsite/" target="_blank">個人網站</a> :
+
+  - 介紹: 一頁式個人網站
+  - 使用 React.js 打造
   - 視差設計效果
 
-- Vue.js 作品：<a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a>
+- <a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a> :
 
-  - Vue.js
-  - 使用 Vue-router、Vuex 等技術
+  - 介紹: 將 <a href="https://github.com/EngineLin/Front-End-Checklist" target="_blank">Front-end checklist</a> 這份用來檢查網站完備性的清單，製作成網頁服務，讓使用者建立個人專案，追蹤個別專案的清單完成進度
+  - 使用 Vue.js 打造
+  - 使用 Firebase 製作 serverless 的後端 API 服務，以及 realtime database 串接
+  - 使用 Vuex 管理組件之間的狀態溝通
+  
+### Translate GitHub Tech Article:
+
+  * <a href="https://github.com/EngineLin/Front-End-Checklist" target="_blank">Front-end checklist</a> : 網站前端檢查表單，用來確認你做的網站前端部分有沒有遺漏掉重要的項目
+  * <a href="https://github.com/EngineLin/modern-js-cheatsheet" target="_blank">Modern-js-cheatsheet</a> : ES6 語法教學小抄，淺顯易懂的介紹 ES6 的新語法與使用方式
 
 ## Introduction
 
 * 2016 年 6 月出發環遊世界半年，勇於挑戰、心態開放。
 * 好學、幽默、一點點自戀。
-* 或者想更深入了解我，可以看<a href="https://goo.gl/VWvM3v" target="_blank">這篇文章</a>
+* <a href="https://goo.gl/VWvM3v" target="_blank">Medium 文章</a>
