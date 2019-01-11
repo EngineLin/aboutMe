@@ -8,8 +8,9 @@
 
 ### 就肆電競 - 網頁工程師 (2018/10 - 2019/01)
 
-* 開發改版後的新聞網站前台與編輯後台
+* 合力開發改版後的新聞網站前台與編輯後台
 * 後期轉到 Service 組，開發 API (公司後端開發是 100% 覆蓋率的 TDD)
+* 合力開發公司活動 WirForce 的登入資料顯示畫面 (DashBoard) 的後端 API
 * 前端使用 Vue.js (TypeScript)，後端使用 SpringBoot (Kotlin)
 
 ### 深擊設計 - 網頁前端工程師 (2018/04 - 2018/10)
@@ -68,6 +69,23 @@
 * Functional Programming
 
 ## Works
+
+
+- <a href="https://www.4gamers.com.tw/">4Gamers</a> :
+
+  - 維護前端頁面
+  - 開發後台編輯器新功能 (編輯部需求)
+  - 開發廣告相關後端 API
+  - 針對新業務網站，合力架設 AWS EC2 與相關設定
+  
+- <a href="https://www.besttour.com.tw/e_web/">喜鴻旅行社</a> :
+
+  - 開發可點選與渲染資料的日曆
+  - 串接第三方平台的登入系統
+  - 「關於喜鴻」的迴廊動畫效果
+  - 合力開發機票訂購流程
+
+## Side Projects
 
 - <a href="https://ptt-soft-job-sniper.herokuapp.com/">Ptt Soft_job Sniper</a> :
 
