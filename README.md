@@ -87,6 +87,13 @@
 
 ## Side Projects
 
+- <a href="https://estay.keylessok.com/">eStay 即宿網</a> :
+
+  - 介紹: 飯店訂房網站
+  - 使用 Vue.js、Material UI 建構，後端與資料庫使用 Firebase
+  - 包含 搜尋、會員、金流功能
+  - 實作 i18n (中/ English)
+
 - Ptt Soft_job Sniper :
 
   - 因為儲存信箱造成的資安問題，已經關閉服務，這邊附上 <a href="https://github.com/EngineLin/ptt-soft-job-sniper">Source code</a>
