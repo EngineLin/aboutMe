@@ -8,10 +8,11 @@
 
 ### 就肆電競 - 網頁工程師 (2018/10 - 2019/01)
 
-* 合力開發改版後的新聞網站前台與編輯後台
-* 後期轉到 Service 組，開發 API (公司後端開發是 100% 覆蓋率的 TDD)
+* 合力開發與維護新版新聞網站前台與編輯後台
+* 後期轉到 Server 組，開發 API (公司後端開發是 100% 覆蓋率的 TDD)
 * 合力開發公司活動 WirForce 的登入資料顯示畫面 (DashBoard) 的後端 API
-* 前端使用 Vue.js (TypeScript)，後端使用 SpringBoot (Kotlin)
+* 公司新業務技術研究與準備
+* 前端使用 Vue.js (TypeScript)，後端使用 Spring (Kotlin)
 
 ### 深擊設計 - 網頁前端工程師 (2018/04 - 2018/10)
 
@@ -21,8 +22,7 @@
 ### 喜鴻旅行社 - 網頁前端工程師 (2017/10 - 2018/04)
 
 * 開發公司新版旅遊網頁前端
-* 負責邏輯與效果比較負責的部分:
-* 包含: 類 Airbnb 的日曆、前後景時差的藝廊效果、公司 Youtube、Instgram、Facebook 頻道的資料爬蟲
+* 負責邏輯與效果比較複雜的部分，包含: 類 Airbnb 的日曆、前後景時差的藝廊效果、公司 Youtube、Instgram、Facebook 頻道的資料爬蟲
 * 開發新專案: 公司內部使用的尾牙抽獎網頁服務
 
 ### 環球背包客 (2016/6 - 2016/11)
@@ -31,7 +31,7 @@
 * 計畫籌備 3 年 (自大三開始)，為此還在大學拼命加強英文
 * 路線: 東南亞 -> 歐洲 -> 北美 -> 東北亞，路經四十餘個國家
 * 嘗試搭便車、打工換宿、沙發衝浪
-* 面對不舒適感與種種困難
+* 面對不舒適感與種種困難，堅持與突破
 
 ### 富邦產物保險 - 比例薪業務員 (2014/9 - 2016/06)
 
@@ -44,7 +44,7 @@
 
 ### Basic Skill
 
-* HTML/CSS/JS
+* HTML/CSS/JavaScript
 * RWD
 * ES6
 
@@ -56,7 +56,9 @@
 
 ### Back-end API Server
 
+* Node.js
 * Koa2
+* Java
 * Kotlin
 * Nodemailer
 
@@ -67,6 +69,7 @@
 * Firebase
 * BootStrap/ElementUI
 * Functional Programming
+* Design Pattern
 
 ## Works
 
