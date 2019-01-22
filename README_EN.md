@@ -11,12 +11,12 @@
 * Develope and maintain component's news website and article management system
 * Develope API ( 100% coverage for TDD )
 * Develope web dashboard API for component's campaign - WirForce
-* Survey new tech for component's new project
+* Survey new technology for component's new project
 * Front-end is Vue.js (TypeScript), back-end is Spring (Kotlin)
 
 ### CCDM - Front-end Enginner (2018/04 - 2018/10)
 
-* Develope component's project - National Museum website
+* Develope component's project - national museum website
 * Used Next.js (React.js)
 
 ### Besttour travel agency - Front-end enginner (2017/10 - 2018/04)
