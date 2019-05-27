@@ -6,6 +6,15 @@
 
 ## Career
 
+### 辰昇網路科技 - 網頁前端工程師 (2019/03 - now)
+
+* 開發與維護 嵌入式客服機器人視窗
+* 開發與維護 客服後台 ERP 系統 (使用 TypeScript)
+* 客服聊天視窗實作 WebSocket
+* 導入單元測試，針對前後台程式碼進行代碼重構, 效能優化, 體積壓縮
+* 出差上海支援時程緊張的軟體專案 (短期支援)
+* Web Mobile (仿手機 App 體感的網站) 開發，導入 Service Worker 實作 Offline first 設計
+
 ### 就肆電競 - 網頁工程師 (2018/10 - 2019/01)
 
 * 合力開發與維護新版新聞網站前台與編輯後台
@@ -50,26 +59,22 @@
 
 ### Front-end Framework
 
-* Vue.js/Vuex
-* React.js/Redux
-* Mocha/Chai/Sinon
+* Vue/Vuex
+* React/Redux
+* Unit test - Jest/Vue-test-utils
 
 ### Back-end API Server
 
-* Node.js
-* Koa2
-* Java
-* Kotlin
-* Nodemailer
+* Node/Koa2
+* Java/Kotlin
 
 ### Others:
 
 * Git
 * Webpack
 * Firebase
-* BootStrap/ElementUI
-* Functional Programming
-* Design Pattern
+* ElementUI/BootStrap/MaterailUI
+* Concepts of functional programming and basic design pattern
 
 ## Works
 
