@@ -8,29 +8,22 @@
 
 ### Front-end
 
-Vue.js ( 3+ years experiences)
-
-React.js
-
-HTML5 / CSS3 / JavaScript ( ES6+ )
-
-Unit Test
+* Vue.js ( 3+ years experiences)
+* React.js
+* HTML5 / CSS3 / JavaScript ( ES6+ )
+* Unit Test
 
 ### Back-end API Server
 
-Go / Gin
-
-Node.js / Koa
-
-了解基礎後端概念與演算法，能夠簡單的 CRUD APIs 與 SQL
+* Go / Gin
+* Node.js / Koa
+* 了解基礎後端概念與演算法，能夠簡單的 CRUD APIs 與 SQL
 
 ### Others:
 
-Git
-
-Webpack
-
-具有 Functional Programming 與設計模式的概念
+* Git
+* Webpack
+* 具有 Functional Programming 與設計模式的概念
 
 ## Career
 
