@@ -4,6 +4,27 @@
 * Location : 新北市板橋區
 * E-mail : linengine@gmail.com
 
+## Skills
+
+### Front-end
+
+Vue.js ( 3+ years experiences)
+React.js
+HTML5 / CSS3 / JavaScript ( ES6+ )
+Unit Test
+
+### Back-end API Server
+
+Go / Gin
+Node.js / Koa
+了解基礎後端概念與演算法，能夠簡單的 CRUD APIs 與 SQL
+
+### Others:
+
+Git
+Webpack
+具有 Functional Programming 與設計模式的概念
+
 ## Career
 
 ### 辰昇網路科技 - 網頁前端工程師 (2019/03 - now)
@@ -12,7 +33,7 @@
 * 開發與維護 客服後台 ERP 系統 (使用 TypeScript)
 * 客服聊天視窗實作 WebSocket
 * 導入單元測試，針對前後台程式碼進行代碼重構, 效能優化, 體積壓縮
-* 出差上海支援時程緊張的軟體專案 (短期支援)
+* 長官指定出差上海支援時程緊張的軟體專案 (短期支援)
 * Web Mobile (仿手機 App 體感的網站) 開發，導入 Service Worker 實作 Offline first 設計
 
 ### 就肆電競 - 網頁工程師 (2018/10 - 2019/01)
@@ -40,44 +61,14 @@
 * 計畫籌備 3 年 (自大三開始)，為此還在大學拼命加強英文
 * 路線: 東南亞 -> 歐洲 -> 北美 -> 東北亞，路經四十餘個國家
 * 嘗試搭便車、打工換宿、沙發衝浪
-* 面對不舒適感與種種困難，堅持與突破
+* 面對種種困難，善用有限資源做出決策、堅持與突破
 
 ### 富邦產物保險 - 比例薪業務員 (2014/9 - 2016/06)
 
-* 研究台灣產物保險相關法規
-* 駐點客戶、個人客戶開發與維護
-* 解釋複雜的概念給顧客理解
 * 第二年業績成長達 140%
-
-## Skills
-
-### Basic Skill
-
-* HTML/CSS/JavaScript
-* RWD
-* ES6
-
-### Front-end Framework
-
-* Vue/Vuex
-* React/Redux
-* Unit test - Jest/Vue-test-utils
-
-### Back-end API Server
-
-* Node/Koa2
-* Java/Kotlin
-
-### Others:
-
-* Git
-* Webpack
-* Firebase
-* ElementUI/BootStrap/MaterailUI
-* Concepts of functional programming and basic design pattern
+* 擅長解釋複雜的概念。讓我再當工程師時能夠有效與小組成員溝通，還有跨部門合作。
 
 ## Works
-
 
 - <a href="https://www.4gamers.com.tw/">4Gamers</a> :
 
@@ -125,12 +116,6 @@
 
   - 撰寫作業範例程式碼
   - 撰寫教學內文草稿解釋邏輯
-
-- <a href="https://enginelin.github.io/personalWebsite/" target="_blank">Personal Website</a> :
-
-  - 介紹: 一頁式個人網站
-  - 使用 React.js 打造
-  - 視差設計效果
 
 - <a href="https://enginelin.github.io/front-end-climbing/" target="_blank">Front-end Climbing</a> :
 
