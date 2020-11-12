@@ -1,10 +1,13 @@
 # 林尹麒 (YIN-CHI LIN)
 
 2016 年 6 月出發環遊世界半年，勇於挑戰、心態開放。
+
 好學、幽默、一點點自戀。
 
 職位：前端工程師
+
 地點：新北市板橋區
+
 E-mail : linengine@gmail.com
 
 * <a href="https://goo.gl/VWvM3v" target="_blank">Medium 文章</a>
